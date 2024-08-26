@@ -3,7 +3,7 @@
 
 # In[6]:
 
-!pip install matplotlip
+!pip install matplotlib
 
 import pandas as pd
 import matplotlib.pyplot as plt
