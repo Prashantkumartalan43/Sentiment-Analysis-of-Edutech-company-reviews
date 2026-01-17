@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-file_path = 'C:/Users/pktal/Downloads/output_reviews.csv'
+file_path = 'output_reviews.csv'
 df = pd.read_csv(file_path)
 
 # Page title
